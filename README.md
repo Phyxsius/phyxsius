@@ -2,7 +2,7 @@
 
 A maker and full stack web developer (I prefer the front-end side) but a dabbler in all aspects of technology. I love to learning new things and living on the bleeding edge. 🧑‍💻 I'm really enjoying working with Angular and Firebase at the moment. Outside of developing I love to bake 🥖, boardgame 🎲, bike 🚴, woodwork 🔨, stargaze ✨, and drink espresso ☕️. 
 
-🔭 I work at [<img src="https://github.com/Phyxsius/phyxsius/blob/main/multipli.png" height="16">ultipli Credit Union](https://multiplicu.com) as the AVP of IT where we are currently developing our next generation online and mobile banking applications.
+🔭 I work at [<img src="https://github.com/Phyxsius/phyxsius/blob/main/multipli.png" height="16"> Multipli Credit Union](https://multiplicu.com) as the AVP of IT where we are currently developing our next generation online and mobile banking applications.
 
 
 <!--
